@@ -1,7 +1,7 @@
 package com.uditagarwal.avoiding_if_else_using_command_pattern.good;
 
 import com.uditagarwal.avoiding_if_else_using_command_pattern.good.executors.CommandExecutor;
-import com.uditagarwal.avoiding_if_else_using_command_pattern.other.model.Command;
+import com.uditagarwal.avoiding_if_else_using_command_pattern.other.Command;
 
 import java.util.List;
 

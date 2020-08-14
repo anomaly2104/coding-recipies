@@ -1,7 +1,7 @@
 package com.uditagarwal.avoiding_if_else_using_command_pattern.good.executors;
 
 import com.uditagarwal.avoiding_if_else_using_command_pattern.other.Database;
-import com.uditagarwal.avoiding_if_else_using_command_pattern.other.model.Command;
+import com.uditagarwal.avoiding_if_else_using_command_pattern.other.Command;
 
 abstract public class CommandExecutor {
 

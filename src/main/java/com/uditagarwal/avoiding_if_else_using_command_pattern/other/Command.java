@@ -1,4 +1,4 @@
-package com.uditagarwal.avoiding_if_else_using_command_pattern.other.model;
+package com.uditagarwal.avoiding_if_else_using_command_pattern.other;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
